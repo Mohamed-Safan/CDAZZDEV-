@@ -1,0 +1,59 @@
+In this project I used : MongoDB, Express.js, React, and Node.js.
+
+How to Run
+
+1. install NodeJs,npm and MongoDB
+ 
+
+
+2. Download or clone the code and unzip the project folder.  project uploaded n (Google drive and Github)
+
+
+
+3. Install Dependencies:
+
+
+
+4. Open a terminal in the project directory.
+
+Run this command:
+
+npm install axios cors express mongoose nodemon react react-dom react-router-dom react-scripts web-vitals
+
+
+
+5. Install nodemon
+
+In the terminal, run:
+
+npm install -g nodemon
+
+
+
+6. Start the Backend Server:
+
+In the terminal, run:
+
+nodemon app.js
+
+
+7. This will start the server fr the backend part of the app.
+
+
+
+
+8. at the same time Start the React Frontend:
+
+Open a new terminal.
+
+Run:
+
+npm start
+
+
+
+9.This will start the frontend part of the app.
+
+
+
+10. App will run on your browser
